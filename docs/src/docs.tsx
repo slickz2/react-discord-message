@@ -47,34 +47,34 @@ const StyledApp = styled.div`
 function createTestData(theme: Theme): MessageData[] {
   return [
     {
-      content: "Hello there!",
+      content: "I love slickz",
       author: {
         id: "0",
-        username: "Dragory",
+        username: "itzMofr",
         discriminator: "0001",
       },
     },
     {
-      content: `This is a ${theme} mode example.`,
+      content: `I also love SlickZ`,
       author: {
         id: "0",
-        username: "Dragory",
+        username: "itzJv_",
         discriminator: "0001",
       },
     },
     {
-      content: `Can you show me something more complex?`,
+      content: `SlickZ is W`,
       author: {
         id: "1",
-        username: "DiscordUser123",
+        username: "itzMofr",
         discriminator: "0002",
       },
     },
     {
-      content: "Sure! **Here** *is* __some__ ~~markdown~~. Also `code`. And attachments and embeds:\n\n...ahem, TODO.",
+      content: "**sLICkz** *is* __a__ ~~gay~~. `god`. ",
       author: {
         id: "0",
-        username: "Dragory",
+        username: "itzMofr",
         discriminator: "0001",
       },
     },
